@@ -35,11 +35,6 @@ npm start
 
 npx mocha
 
-
-## Contribución
-
-Si deseas contribuir a este proyecto o informar sobre problemas, ¡siéntete libre de hacerlo! Abre un problema o envía una solicitud de extracción y estaremos encantados de revisar tus contribuciones.
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
