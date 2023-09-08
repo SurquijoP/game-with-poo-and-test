@@ -1,0 +1,24 @@
+{
+  "name": "game-with-poo-and-test",
+  "version": "1.0.0",
+  "description": "Este proyecto es una pequeña introducción a un juego explicativo desarrollado en JavaScript, utilizando los cinco pilares de la Programación Orientada a Objetos (POO). Además, se incluye un contenedor de pruebas utilizando Mocha y Chai para garantizar la calidad y el funcionamiento correcto del código.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx mocha",
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "sebastian urquijo pastrana",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
